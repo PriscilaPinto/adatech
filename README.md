@@ -13,5 +13,15 @@ Esse é um passo a passo básico para poder rodar a automação corretamente em 
 - Em seu computador, localizar e selecionar o arquivo de automação baixado -> Clicar em abrir
 - No Selenium IDE canto superior esquerdo -> Clicar no ícone "Run corrent test"
 
-O Selenium IDE irá automaticamente inicializar o teste
+O Selenium IDE irá automaticamente inicializar o teste.
+
+Caso o teste falhe em alguma etapa, o Selenium IDE irá interromper o teste automaticamente, apresentando a linha com o erro.
+
+Caso o teste passe com sucesso, o Selenium IDE irá encerrar o teste com todas as linhas em verde.
+
+# Possíveis problemas
+
+- Verifique a extenção salva do arquivo, deve estar salvo no formato .SIDE para o funcionamento correto
+- Verifique sua conexão com a internet
+- 
 
