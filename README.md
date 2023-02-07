@@ -23,5 +23,4 @@ Caso o teste passe com sucesso, o Selenium IDE irá encerrar o teste com todas a
 
 - Verifique a extenção salva do arquivo, deve estar salvo no formato .SIDE para o funcionamento correto
 - Verifique sua conexão com a internet
-- 
 
