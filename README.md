@@ -1,6 +1,3 @@
-# Adatech
-Projeto de avaliação da prova prática para a vaga de analista de teste
-
 # Manual para rodar a automação
 Esse é um passo a passo básico para poder rodar a automação corretamente em seu computador, segue abaixo alguns requisitos mínimos:
 - 1 - Navegador Google Chrome instalado (verificar a versão mais recente)
